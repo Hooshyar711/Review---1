@@ -2,3 +2,5 @@ Sunday
 Monday
 Tuesday
 Wendesday
+
+changed bugfix - 1

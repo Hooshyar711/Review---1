@@ -9,3 +9,4 @@ seven
 
 Changed master - 2
 changed bugfix - 4
+Changed master - 4

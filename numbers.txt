@@ -8,3 +8,4 @@ six
 seven
 
 Changed master - 2
+changed bugfix - 4
